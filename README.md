@@ -8,6 +8,7 @@ There are 32 different rulesets, each a combination of the following 5 letters:
 - `U`: Using Up to cancel Down is allowed
 - `S`: Stunning is allowed (pausing to manipulate TimeActive, usually done to keep spinners or other hazards unloaded)
 - `F`: Freeze is allowed (waiting 115 hours to stop TimeActive from advancing, usually done to keep spinners or other hazards unloaded)
+
 The ruleset with no letters is called `none`, and `DHUSF` is also sometimes called `every`.
 
 However, this doesn't mean we have 32 different versions of each file. In a full-game run we prioritize using the most restrictive possible ruleset for each level over saving time. For example, if in an Any% HUS run 3A can be completed using only HU, then we won't use stunning, even if it saves time, and thus a `3A-MD-HUS.tas` file won't exist.
