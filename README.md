@@ -21,7 +21,7 @@ Currently we are working on an Any% HUS TAS, which will have 2 down presses in t
 - [x] `1A-MD-none.tas` (0x)
 - [x] `2A-MD-HU.tas` (1x, hold into 3A)
 - [x] `3A-MD-HU.tas` (0.5x, hold into 4A)
-- [ ] `4A-MD-HU.tas` (0.5x, hold into 5A)
+- [x] `4A-MD-HU.tas` (0.5x, hold into 5A)
 - [ ] `5Cassette-MD-HUS.tas` (0.5x, release)
 - [ ] `5B-MD-HU.tas` (1x, hold into 6A)
 - [ ] `6A-MD-HU.tas` (0.5x, release)
