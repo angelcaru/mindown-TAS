@@ -1,4 +1,4 @@
-RecordCount: 608
+RecordCount: 645
 
 console load 5
    1
@@ -443,10 +443,8 @@ EndRepeat
    7,R,X
   10,R,J,G
   34,R
-Repeat,4
   14,L,X
    1,L,J
-EndRepeat
    9,R,X
    8,R,J
   12,R
@@ -454,26 +452,22 @@ EndRepeat
   15,U,X
    9,L,J,G
    9,L
-  15,L,X
-   3
-  15,R,C
-   3
   14,L,X
-   2,L,J
-   2,L,K,G
-  14,L
-   2,L
-   3
-   6,L
-   9,L,U,X
+   1,L,J
+  11,L
+  15,L,X
+  15,L
+  15,R,X
+   3,R
+  14,L,C
+   1,L,J
+   7,L
+   1,L,K,G
+  29,L
+   8,L,U,X
    1,R
-  11,J,G
-  30,L,J
-   4
-   1,L,K
-  21,L
-  13,L,X
-  10,L,J
+   6,J,G
+   6,L,J
  257
    1,J
   62
@@ -482,4 +476,4 @@ EndRepeat
    1,O
   31
 
-FileTime: 1:27.193(5129)
+FileTime: 1:26.037(5061)
