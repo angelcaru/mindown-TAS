@@ -1,4 +1,4 @@
-RecordCount: 835
+RecordCount: 852
 
 console load 2
    1
@@ -222,11 +222,11 @@ EndRepeat
   40,D
 
 #lvl_3
+   3,R,D,J
    1,D,S
-   3,D
    1,D,O
   34,D
-   7,R,D,J
+   4,R,D,J
    4,R,D
    4,D,X
    5,R,U,D,X
@@ -543,14 +543,15 @@ EndRepeat
    8,R,U,D,X
    1,R,D,J,G
   16,R,D
-   1,D,S
-   4,D
+   3,D,S
    1,D,J
   18,D
 
 #Awake
 #lvl_end_0
 # No S&Q bc SaveAndQuitReenter introduces down presses
+#1:25.901(5053)
+#1:25.867(5051)
  190,D
    5,L,D,X
    2,R,D,J
@@ -633,9 +634,8 @@ EndRepeat
 #lvl_end_6
    2,R,D,J
   14,R,U,D,X
-   1,D,S
-   4,D
+   4,D,S
    1,D,J
   18,D
 
-FileTime: 1:42.391(6023)
+FileTime: 1:42.289(6017)
