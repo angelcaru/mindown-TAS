@@ -1,9 +1,9 @@
-RecordCount: 2676
+RecordCount: 2737
 
 console load 3
    1
 
-Set Everest.ShowModOptionsInGame false
+Set,Everest.ShowModOptionsInGame,false
 
 #Start
 #0.5x
@@ -76,7 +76,7 @@ Set Everest.ShowModOptionsInGame false
    7,R,D
    1,D,J
   14,D
-Repeat, 6
+Repeat,6
    1,D
    1,U,D
 EndRepeat
@@ -483,7 +483,7 @@ EndRepeat
    2,R,D
    4,D
    2,L,D
-Repeat, 4
+Repeat,4
    1,R,D
    1,L,D
 EndRepeat
@@ -1114,7 +1114,7 @@ EndRepeat
    2,L,D,J,G
    9,L,D
    5,U,D
-Repeat, 20
+Repeat,20
    1,D
    1,U,D
 EndRepeat
@@ -1348,7 +1348,7 @@ EndRepeat
 #lvl_04-c (1)
    8,R,U,D,X
   20,L,D
-Repeat, 45
+Repeat,45
    1,D
    1,U,D
 EndRepeat
@@ -1418,18 +1418,14 @@ EndRepeat
 #lvl_00-d
    4,L,D
    1,L,U,D,J
-   1,D,S
+   1,L,D
+  10,L,D,X
+   2,D,S
    1,D,J
   37,D
-   1,L,D
-  14,L,D,X
-   1,L,D,J
-  14,L,D,X
-   1,L,D,J
-  10,L,D,K,G
+  23,L,U,D,J
   15,U,D,X
-  19,L,D,J
-   4,D,K,G
+  18,L,D,J
   40,D
 
 #lvl_roof00
@@ -1650,6 +1646,7 @@ EndRepeat
   40,D
 
 #lvl_roof06
+#3:45.505(13265)
    3,R,D,J,G
   16,R,D
   11,R,U,D,J
@@ -1721,4 +1718,4 @@ EndRepeat
    1,D,J
   18,D
 
-FileTime: 3:54.481(13793)
+FileTime: 3:54.345(13785)
