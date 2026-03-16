@@ -1,4 +1,4 @@
-RecordCount: 480
+RecordCount: 697
 
 console hard 5
    1
@@ -349,3 +349,154 @@ EndRepeat
 #Through the Mirror
 #lvl_c-00
  206,D
+   2,R,D,J
+   5,R,D
+   4,R,D,J
+  20,R,D
+  35,R,U,D
+  23,L,U,D
+   7,L,D
+   1,L,D,J
+  26,L,D
+  15,L,U,D,X
+  16,R,D
+   8,D
+   9,R,D
+   1,R,U,D
+   4,R,D,G
+   4,R,D,J,G
+  18,R,D,X
+  27,L,D
+  12,R,D
+  15,R,D,X
+   5,L,D,J
+   5,L,D
+   8,L,D,J
+  30,L,D
+  16,L,D,X
+  13,D
+  10,L,D
+   6,D
+  34,R,D
+   9,R,D,X
+   1,R,D,J
+   7,R,D
+   1,R,U,D,J
+  15,R,D,X
+   2,R,U,D
+   1,R,U,D,K
+   6,R,D
+  40,D
+
+#lvl_c-01
+   5,R,D,K
+   4,D,X
+   8,R,U,D,X
+   1,L,D,J,G
+   6,R,D,J
+  19,R,D
+  20,R,D,K
+   1,L,D,K
+   1,R,D,K
+   1,D,J
+   2,D,K,G
+  11,L,D,K
+  15,L,U,D,X
+  55,R,U,D
+   3,R,D
+#   7,R,Z
+   8,R,D,X
+#4089.14
+   1,R,D,K
+   6,R,D
+   6,R,D,J
+  40,D
+
+#lvl_c-02
+  10,R,D,J
+   1,L,D
+   2,D,K,G
+  24,R,U,D,X
+   4,D,C
+   1,R,D,J
+   7,R,D
+   8,R,D,J
+   5,R,D
+   5,R,D,J
+   1,D,J
+   1,R,D,J
+   2,D,J
+   1,D
+  28,L,D
+  15,R,U,D,X
+   1,D,J
+   1,R,D,K,G
+   3,D
+   4,D,X
+  10,U,D,X
+   4,L,D,J
+   1,R,D,J
+  10,R,D,K,G
+   2,D,K
+  14,R,U,D,X
+   9,D
+   4,R,D
+   6,D
+  16,R,D
+   4,D,X
+  10,R,U,D,X
+   2,L,D
+   1,D,J
+   4,R,D,J
+   6,R,D
+   3,R,D,J
+   4,R
+   8,R,D,X
+   1,R,D,J
+   6,R,D
+  40,D
+
+#lvl_c-03
+   1,R,U,D,J
+  14,R,D,X
+  37,R,D,J
+  16,R,U,D,X
+  55,R,D,J
+  24,U,D,G
+  26,R,D,G
+   9,D
+   4,D,X
+  39,R,D
+   4,D,X
+  10,R,U,D,X
+   1,L,D
+   1,D,J,G
+  44,R,D,J
+   8,R,D,K,G
+   7,R,D
+  10,R,D,X
+   1,R,D,J
+   3,R,D
+  40,D
+
+#lvl_c-04
+   4,R,D
+  24,R,U,D,J
+  11,L,D,X
+   1,R,D,J
+   7,R,D
+  10,R,U,D,J
+  17,R,D,X
+   9,R,U,D,J
+  16,R,D,X
+  17,R,U,D,J
+  16,U,D,X
+   4,L,D,J
+  15,L,D
+   4,R,U,D,J
+   5,D,J
+  16,U,D,X
+  40,D
+
+#Mix Master
+#lvl_d-00
