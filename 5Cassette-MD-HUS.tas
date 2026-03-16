@@ -1,4 +1,4 @@
-RecordCount: 645
+RecordCount: 648
 
 console load 5
    1
@@ -136,9 +136,7 @@ Set,Everest.ShowModOptionsInGame,false
    1,L,D,J
   11,L,D
 AutoInput,2
-   1,D,S,N
-   1,D,X
-   9,D
+  11,D,S,Q,N
 StartAutoInput
   17,L,D
 SkipInput,3,1
