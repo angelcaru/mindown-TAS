@@ -17,7 +17,7 @@ We also only start a down press in a level when it becomes necessary and end it 
 
 ## Progress
 Currently we are working on an Any% HUS TAS, which will have 2 down presses in total. This involves the following files:
-- [ ] `0 - Prologue-MD-none.tas` (0x)
+- [x] `0 - Prologue-MD-none.tas` (0x)
 - [x] `1A-MD-none.tas` (0x)
 - [x] `2A-MD-HU.tas` (1x, hold into 3A)
 - [x] `3A-MD-HU.tas` (0.5x, hold into 4A)
