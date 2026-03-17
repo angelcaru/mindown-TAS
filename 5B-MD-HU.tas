@@ -1,4 +1,4 @@
-RecordCount: 1001
+RecordCount: 1025
 
 console hard 5
    1
@@ -671,17 +671,19 @@ EndRepeat
    6,R,U,D,J
   34,R,U,D,G
   34,R,U,D,J,G
-  15,R,U,D,X
-  34,R,D
+   9,R,U,D
+   9,R,U,D,X
+   1,R,D,J,G
+   9,R,D
    4,D,X
    1,R,D,J
-   7,R,D
-   3,R,U,D,J
-  15,R,U,D,X
+  15,R,D
+   4,R,U,D,J
+  99,R,U,D,X
    1,D
 Repeat, 67
    1,L,D
    1,R,D
 EndRepeat
 
-ChapterTime: 2:02.893(7229)
+ChapterTime: 2:02.672(7216)
